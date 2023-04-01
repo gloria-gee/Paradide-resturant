@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paradise Resturant | Coding with Gloria</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/all.min.css">
+</head>
+<body>
+  
+    <header>
+        <div class="fas fa-bars" id="menubtn"></div>
+        <a href="#" class="logo"><i class="fas fa-utensils"></i>paradise</a>
+
+        <nav class="navbar">
+            <a href="#">home</a>
+            <a href="#">about</a>
+            <a href="#">menu</a>
+            <a href="#">reviews</a>
+            <a href="#">blogs</a>
+        </nav>
+        <a href="#" class="btn">reserve a table</a>
+    </header>
+
+<section class="home">
+    <div class="content">
+        <div class="text">
+            <h3>a dresh yummy burger for your breakfast</h3>
+            <a href="#" class="btn">order now</a>
+        </div>
+        <div class="image">
+            <img src="img/home.png" alt="">
+        </div>
+    </div>
+</section>
+
+<section class="about">
+    <h1 class="heading">about us</h1>
+</section>
+
+
+
+<script>
+         let menu =document.querySelector('#menubtn'),
+         navbar = document.querySelector('.navbar');
+
+         menu.onclick = () =>{
+            menu.classList.toggle('fa-times');
+            navbar.classList.toggle('active');
+         }
+
+         window.onscroll = () =>{
+            menu.classList.toggle('fa-time');
+            navbar.classList.toggle('active');
+         }
+    </script>
+</body>
+</html>
