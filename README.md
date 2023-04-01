@@ -1,0 +1,3 @@
+# Paradise Hotel
+
+Welcome to Paradise Burger Hotel, your one-stop destination for a delicious burger experience. Our website is designed to make it easier for you to find the perfect burger that suits your taste. We offer a wide selection of burgers, from classic favorites to unique creations. We also have a variety of sides, drinks, and desserts to pair with your burger. Whether you're looking for a quick bite or a full meal, Paradise Burger Hotel has something for everyone. Our staff is dedicated to providing you with the best customer service, ensuring that your visit is a pleasant one. So come on in and enjoy the delicious taste of Paradise Burger Hotel!
